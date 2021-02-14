@@ -1,0 +1,4 @@
+[28-Jan-2020 03:11:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/kamalsroor/main.sp-cargo.com/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kamalsroor/main.sp-cargo.com/database/factories/UserFactory.php on line 16

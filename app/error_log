@@ -1,0 +1,1 @@
+[28-Jan-2020 03:11:40 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/kamalsroor/main.sp-cargo.com/app/User.php on line 10
